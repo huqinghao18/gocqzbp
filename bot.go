@@ -17,7 +17,7 @@ import (
 	// vvvvvvvvvvvvvvvvvvvvvvvvvvvv高优先级区vvvvvvvvvvvvvvvvvvvvvvvvvvvv //
 	//               vvvvvvvvvvvvvv高优先级区vvvvvvvvvvvvvv               //
 	//                      vvvvvvv高优先级区vvvvvvv                      //
-	//                          vvvvvvvvvvvvvv                          //
+	//                          vvvvvvvvvvvvvv ;;;;;                         //
 	//                               vvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
