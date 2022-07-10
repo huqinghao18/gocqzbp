@@ -159,7 +159,7 @@ import (
 )
 
 var (
-	nicks  = []string{"ATRI", "atri", "亚托莉", "アトリ"}
+	nicks  = []string{"王舵"}
 	adana  *string
 	prefix *string
 )
